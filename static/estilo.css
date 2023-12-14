@@ -1,0 +1,43 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #6A5ACD;
+    text-align: center;
+    padding: 50px;
+
+}
+
+
+
+input{
+    display: block;
+    width: calc(100% - 14px);
+    padding: 7px;
+    margin-bottom: 14px;
+}
+.form-group{
+    text-align: left;
+}
+
+
+.influenciadores-card1{
+    background-color: #483D8B;
+    color: white;
+    padding: 20px;
+    border-radius: 10px ;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    display: inline-block;
+    margin: 10px;
+}
+
+
+
+button{
+     background-color:	#191970;
+    color: white;
+    padding: 10px;
+    border: none;
+    border-radius: 15px;
+    width: 155px;
+    text-align: center;
+}
+
